@@ -1,5 +1,5 @@
 import turtle
-import random
+import random #for random speeds
 
 font = ("Arial", 30, "bold")
 tom = turtle.Turtle()
